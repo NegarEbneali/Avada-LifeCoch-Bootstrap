@@ -1,0 +1,47 @@
+
+@media screen and (max-width:576px) {
+    .head-top {
+        height: 90px;
+           
+    }
+
+}
+
+@media screen and (min-width:577px) {
+    .head-top {
+        height: 100px;
+ 
+    }
+
+}
+
+@media screen and (max-width:768px) {
+      
+    .article{
+      background-image: none;
+     
+     .leftpart{
+         height: 350px; 
+         /* border: 2px solid red; */
+         margin-left: -60px;
+        >h6{
+        margin-top:-55px;
+           }
+        >.btn{
+         margin-top:-60px;
+           } 
+                     
+    }  
+  
+} 
+}
+
+ /* @media screen and (min-width:1400px){
+  .article{
+    .leftpart{
+        margin-left: 400px;     
+   }
+  }  
+
+
+}  */
